@@ -1,0 +1,10 @@
+Package: com.jamieuk.oxylabels
+Name: Oxylabels
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: be gone labels!S
+Maintainer: Jamie Ralston
+Author: Jamie Ralston
+Section: Tweaks
+Icon: 
